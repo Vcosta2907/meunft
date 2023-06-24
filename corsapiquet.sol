@@ -68,3 +68,5 @@ contract CorsaPiquet is ERC721, ERC721URIStorage, Pausable, AccessControl, ERC72
         return super.supportsInterface(interfaceId);
     }
 }
+
+//0x5f39560dDdf6260E64E0F67104feD7AC6460D798
